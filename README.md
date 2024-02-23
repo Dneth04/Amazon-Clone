@@ -1,5 +1,5 @@
 Amazon-Clone Website
-/n
+
 This is a basic clone of the Amazon website created using HTML and CSS.
 
 Description: 
