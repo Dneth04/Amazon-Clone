@@ -1,14 +1,15 @@
 Amazon-Clone Website
+/n
 This is a basic clone of the Amazon website created using HTML and CSS.
 
-Description
+Description: 
 This project serves as a demonstration of my HTML and CSS skills. It replicates the user interface of the Amazon website, including the header, navigation bar, product listings, and footer.
 The project is only for visuals of Amazon website and doesn't include its functionalities
 Technologies Used
 HTML
 CSS
 
-Usage
+Usage:   
 To view the webpage, simply follow these steps:
 
 1. Download all the files from the repository.
